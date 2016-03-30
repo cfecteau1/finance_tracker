@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '4.2.4'
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
